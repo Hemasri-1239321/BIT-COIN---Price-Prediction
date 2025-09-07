@@ -11,19 +11,19 @@ The [paper](9.pdf) contains all details of algorithms used along with results, a
 
 * Dataset after Preprocessing
 
-![Dataset after preprocessing](imgs/df.png)
+![Dataset after preprocessing](df.png)
 
 * Seasonal Decomposition of the Time-Series after order-1 differencing (to make it stationary)
 
-![Seasonal Decomposition After Order-1 Differencing](imgs/seas-decomp.png)
+![Seasonal Decomposition After Order-1 Differencing](seas-decomp.png)
 
 * Correlation Plots 
 
-![Autocorrelation](imgs/corr.png)
+![Autocorrelation](corr.png)
 
 * Best Results (GARCH + SARIMAX) (RMSE: 154.32)
 
-![arima-garch-results](imgs/garch-sarimax.png)
+![arima-garch-results](garch-sarimax.png)
 
 
 
